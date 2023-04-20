@@ -39,6 +39,7 @@ a {
 }
 .div {
     width: 800px;
+    position: relative;
     border: 1px solid white;
 }
 .div2 {
